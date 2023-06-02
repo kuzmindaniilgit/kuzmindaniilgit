@@ -6,11 +6,13 @@
 </a>
 <a href="mailto:kuzm.d19@gmail.com"> <img src="https://img.shields.io/badge/gmail-rgba(250,20,0)?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
+<a href="https://leetcode.com/kuzmindaniil/"> <img src="https://img.shields.io/badge/leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" />
+</a>
 </div>
 
 <p style='margin-top:6px'>
 I'm a student. I study the design of aircraft: fighters and space rockets. 
-I started data science in 2022: I do projects and solve algorithmic problems on leetcode.
+I started data science in 2022: I do projects and solve algorithmic problems on <a href="https://leetcode.com/kuzmindaniil/">leetcode</a>.
 </p>
 
 <div style="font-family: 'Montserrat', sans-serif; font-size: 14px;">
@@ -30,7 +32,7 @@ Data Visualization: Matplotlib, Seaborn, Plotly. <br>
 Machine Learning Modeling: Classification, Regression, Clusterization, Time Series and Neural Network. <br>
 Machine Learning Deployment: Flask. <br>
 </div>
-
+ 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" width="40" height="40"/>&nbsp;
