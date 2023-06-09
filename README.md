@@ -11,7 +11,7 @@
 </div>
 
 <p style='margin-top:6px'>
-I'm a student. I study the design of aircraft: fighters and space rockets. 
+I'm a student. I study the design of aircraft namely space rockets. 
 I started data science in 2022: I do projects and solve algorithmic problems on <a href="https://leetcode.com/kuzmindaniil/">leetcode</a>.
 </p>
 
