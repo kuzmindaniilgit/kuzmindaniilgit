@@ -6,7 +6,7 @@
 </a>
 <a href="mailto:kuzm.d19@gmail.com"> <img src="https://img.shields.io/badge/gmail-rgba(250,20,0)?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
-<a href="https://leetcode.com/kuzmindaniil/"> <img src="https://img.shields.io/badge/leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" />
+<a href="https://kuzmindaniil.notion.site/kuzmindaniil/KUZMINJA-cv-projects-f3550449bab34f7bbfd994bb32cc2156"> <img src="https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion&logoColor=white" alt="notion" />
 </a>
 </div>
 
